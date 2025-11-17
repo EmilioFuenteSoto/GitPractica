@@ -15,7 +15,7 @@
 
 *Al ejecutar el código lo primero que vemos es un menú donde podemos escoger la opción que queramos*
 
-![Ejecución del menú](./ejecucion_menu.png)
+![Ejecución del menú](ejecucion_menu.png)
 
 **Función de agregar el dinero**
 
