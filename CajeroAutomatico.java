@@ -17,7 +17,7 @@ public class CajeroAutomatico {
     public static void MostrarMenuPrincipal(){
         System.out.println("*________________________*");
         System.out.println("|                        |");
-        System.out.println("|    Bienvenido a BordeBank |");
+        System.out.println("| Bienvenido a BordeBank |");
         System.out.println("|                        |");
         System.out.println("|        ¬      ¬        |");
         System.out.println("|          ____          |");
